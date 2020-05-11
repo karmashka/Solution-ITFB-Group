@@ -1,2 +1,6 @@
 # Solution-ITFB-Group
- Solution of the problem for candidates for the position of a junior systems analyst
+ Решение задания для кандидатов на позицию младшего системного аналитика
+ 
+ Решения задания находится в папке Task1 - Hard skills.
+ 
+В файле "Karpenko_Mariia_CV.pdf" Вы можете ознакомиться с моим резюме.
